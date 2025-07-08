@@ -1,4 +1,4 @@
-# Split Tour 💸✈️
+# Split Tour 💸✈️ ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 A simple and intuitive tour expense splitting web app built using **React**, **Vite**, and **Tailwind CSS**. Perfect for friends or groups to track and settle shared travel expenses easily.
 

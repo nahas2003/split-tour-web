@@ -1,12 +1,11 @@
 {
   "name": "split-tour",
   "version": "1.0.0",
- "scripts": {
-  "dev": "node_modules/.bin/vite",
-  "build": "node_modules/.bin/vite build",
-  "preview": "node_modules/.bin/vite preview"
-}
-
+  "scripts": {
+    "dev": "node_modules/.bin/vite",
+    "build": "node_modules/.bin/vite build",
+    "preview": "node_modules/.bin/vite preview"
+  },
   "dependencies": {
     "jspdf": "^3.0.1",
     "react": "^18.2.0",

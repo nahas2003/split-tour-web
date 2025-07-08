@@ -2,16 +2,16 @@
   "name": "split-tour",
   "version": "1.0.0",
   "scripts": {
-    "dev": "vite",
+    "dev": "npx vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "npx vite preview"
   },
   "dependencies": {
     "jspdf": "^3.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.14.2",
-    "vite": "^4.5.14"  // ← move vite here
+    "vite": "^4.5.14"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.0",

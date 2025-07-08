@@ -1,11 +1,11 @@
 {
   "name": "split-tour",
   "version": "1.0.0",
- "scripts": {
-  "dev": "npx vite",
-  "build": "node build.js",
-  "preview": "npx vite preview"
-},
+  "scripts": {
+    "dev": "npx vite",
+    "build": "node build.js",
+    "preview": "npx vite preview"
+  },
   "dependencies": {
     "jspdf": "^3.0.1",
     "react": "^18.2.0",
